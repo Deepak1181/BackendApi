@@ -1,0 +1,25 @@
+{
+    "contact": [
+      {
+        "name": "Deepak Prajapati",
+        "email": "dkp041297@gmail.com",
+        "phoneno": "08368373471",
+        "remark": "ye dost ka no hai",
+        "id": 4
+      },
+      {
+        "name": "priyanka ",
+        "email": "priyanka@gmail.com",
+        "phoneno": "78945685263",
+        "remark": " pata nhi kon haii",
+        "id": 5
+      },
+      {
+        "name": "Sidhu",
+        "email": "Sidhu @gmail.com",
+        "phoneno": "08368373471",
+        "remark": "sidhu moose wala",
+        "id": 6
+      }
+    ]
+  }

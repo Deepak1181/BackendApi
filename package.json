@@ -1,0 +1,24 @@
+{
+  "name": "backendapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepak1181/BackendApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepak1181/BackendApi/issues"
+  },
+  "homepage": "https://github.com/Deepak1181/BackendApi#readme",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
